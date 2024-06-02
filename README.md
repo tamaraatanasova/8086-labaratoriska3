@@ -8,8 +8,8 @@ password, the word 'MPSPOTPISI' will be entered, and for the second string the w
 'MICROPOTPISI'; 'MPSPOTPISI'; 'MPSPOTPIS', for three consecutive executions.
 
 
-![Screenshot (5)]()
-![Screenshot (5)]()
+![Screenshot (5)](https://github.com/tamaraatanasova/8086-labaratoriska3/blob/main/lab3.1.png)
+![Screenshot (5)](https://github.com/tamaraatanasova/8086-labaratoriska3/blob/main/lab3.2.png)
 
 [Tamara Atanasova ](https://github.com/tamaraatanasova)
 
